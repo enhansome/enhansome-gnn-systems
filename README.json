@@ -1,0 +1,246 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyG: Graph Neural Network Library for PyTorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T05:51:27Z",
+            "owner": "pyg-team",
+            "repo": "pytorch_geometric",
+            "stars": 24006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DGL: Python Package Built to Ease Deep Learning on Graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T23:53:10Z",
+            "owner": "dmlc",
+            "repo": "dgl",
+            "stars": 14278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Nets: Build Graph Nets in Tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-12T11:28:07Z",
+            "owner": "google-deepmind",
+            "repo": "graph_nets",
+            "stars": 5405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StellarGraph: Machine Learning on Graphs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T12:25:23Z",
+            "owner": "stellargraph",
+            "repo": "stellargraph",
+            "stars": 3060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Euler: A Distributed Graph Deep Learning Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-19T12:30:48Z",
+            "owner": "alibaba",
+            "repo": "euler",
+            "stars": 2897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spektral: Graph Neural Networks with Keras and Tensorflow 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T16:47:04Z",
+            "owner": "danielegrattarola",
+            "repo": "spektral",
+            "stars": 2395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T07:18:56Z",
+            "owner": "divelab",
+            "repo": "DIG",
+            "stars": 2006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-01T21:24:47Z",
+            "owner": "THUDM",
+            "repo": "CogDL",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PGL: An Efficient and Flexible Graph Learning Framework Based on PaddlePaddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-11T05:15:14Z",
+            "owner": "PaddlePaddle",
+            "repo": "PGL",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jraph: A Graph Neural Network Library in Jax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-18T13:56:39Z",
+            "owner": "google-deepmind",
+            "repo": "jraph",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph-Learn: An Industrial Graph Neural Network Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-04T08:52:27Z",
+            "owner": "alibaba",
+            "repo": "graph-learn",
+            "stars": 1340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepGNN: a Framework for Training Machine Learning Models on Large Scale Graph Data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:54:13Z",
+            "owner": "microsoft",
+            "repo": "DeepGNN",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Open Source Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survey Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Kernels"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Compilers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Distributed GNN Training Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training Systems for Scaling Graphs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quantized GNNs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Dataloaders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Training Accelerators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GNN Inference Accelerators"
+    },
+    {
+      "description": "We welcome contributions to this repository. To add new papers to this list, please update JSON files under . Our bots will update the paper list in automatically. The citations of newly added papers will be updated within one day.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:42.657Z",
+    "original_repository": "ch-wan/awesome-gnn-systems",
+    "original_repository_sha": "e124beac2e922f4cff9a0f88a2ee6d8d437d4833",
+    "enhanced_repository": "enhansome/enhansome-gnn-systems",
+    "enhanced_repository_description": null,
+    "title": "Awesome Graph Neural Network Systems with stars"
+  }
+}
