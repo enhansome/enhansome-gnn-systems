@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T05:51:27Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24006
+            "stars": 24009
           }
         },
         {
@@ -236,9 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:03:20.161Z",
+    "last_updated": "2026-08-14T06:59:36.981Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
-    "original_repository_sha": "e124beac2e922f4cff9a0f88a2ee6d8d437d4833",
+    "original_repository_sha": "18d88a32e16c6891f8742fbf13134dc58ee91cfa",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
