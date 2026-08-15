@@ -28,7 +28,7 @@
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14278
+            "stars": 14277
           }
         },
         {
@@ -236,9 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:59:36.981Z",
+    "last_updated": "2026-08-15T06:01:35.485Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
-    "original_repository_sha": "18d88a32e16c6891f8742fbf13134dc58ee91cfa",
+    "original_repository_sha": "8a63e31a7f475dcab95923fd03c4e1f731238ac3",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
