@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-31T05:51:27Z",
+            "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24013
+            "stars": 24017
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2024-07-15T07:18:56Z",
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2006
+            "stars": 2005
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2024-02-01T21:24:47Z",
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1820
+            "stars": 1821
           }
         },
         {
@@ -236,9 +236,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:21:25.313Z",
+    "last_updated": "2026-08-18T06:04:12.168Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
-    "original_repository_sha": "542c3eb1429acd7a464a40476e814f12678e4489",
+    "original_repository_sha": "2e9f56e3e3bb673c373aede67b23df0e761ad7a9",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
