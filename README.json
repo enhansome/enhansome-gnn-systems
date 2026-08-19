@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106024057,
             "language": "Python",
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130375797,
             "language": "Python",
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146863062,
             "language": "Python",
             "last_commit": "2022-12-12T11:28:07Z",
             "owner": "google-deepmind",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129366435,
             "language": "Python",
             "last_commit": "2024-04-10T12:25:23Z",
             "owner": "stellargraph",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165004157,
             "language": "C++",
             "last_commit": "2023-08-19T12:30:48Z",
             "owner": "alibaba",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166213444,
             "language": "Python",
             "last_commit": "2024-01-21T16:47:04Z",
             "owner": "danielegrattarola",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308519128,
             "language": "Python",
             "last_commit": "2024-07-15T07:18:56Z",
             "owner": "divelab",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176315637,
             "language": "Python",
             "last_commit": "2024-02-01T21:24:47Z",
             "owner": "THUDM",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191286408,
             "language": "Python",
             "last_commit": "2023-12-11T05:15:14Z",
             "owner": "PaddlePaddle",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 315278570,
             "language": "Python",
             "last_commit": "2024-03-18T13:56:39Z",
             "owner": "google-deepmind",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250229724,
             "language": "C++",
             "last_commit": "2025-07-04T08:52:27Z",
             "owner": "alibaba",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484143363,
             "language": "Python",
             "last_commit": "2026-08-09T19:54:13Z",
             "owner": "microsoft",
@@ -173,71 +185,12 @@
         }
       ],
       "title": "Open Source Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Survey Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Kernels"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Compilers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Distributed GNN Training Systems"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Training Systems for Scaling Graphs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quantized GNNs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Dataloaders"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Training Accelerators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GNN Inference Accelerators"
-    },
-    {
-      "description": "We welcome contributions to this repository. To add new papers to this list, please update JSON files under . Our bots will update the paper list in automatically. The citations of newly added papers will be updated within one day.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:16:57.257Z",
+    "last_updated": "2026-08-19T12:29:32.202Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
+    "original_repository_id": 504471454,
     "original_repository_sha": "96b8c9c8ccb5f0e4d80a0dff1c22e9665abe2c85",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
