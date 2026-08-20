@@ -105,7 +105,7 @@
             "last_commit": "2024-07-15T07:18:56Z",
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2006
+            "stars": 2007
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2023-12-11T05:15:14Z",
             "owner": "PaddlePaddle",
             "repo": "PGL",
-            "stars": 1586
+            "stars": 1585
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-07-04T08:52:27Z",
             "owner": "alibaba",
             "repo": "graph-learn",
-            "stars": 1340
+            "stars": 1341
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:32.202Z",
+    "last_updated": "2026-08-20T06:17:11.373Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
     "original_repository_id": 504471454,
     "original_repository_sha": "96b8c9c8ccb5f0e4d80a0dff1c22e9665abe2c85",
