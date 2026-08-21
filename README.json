@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24018
+            "stars": 24021
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14277
+            "stars": 14278
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-01-21T16:47:04Z",
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2396
+            "stars": 2395
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:17:11.373Z",
+    "last_updated": "2026-08-21T06:17:56.460Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
     "original_repository_id": 504471454,
     "original_repository_sha": "96b8c9c8ccb5f0e4d80a0dff1c22e9665abe2c85",
