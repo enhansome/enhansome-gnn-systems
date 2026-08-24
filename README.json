@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T23:02:36Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24028
+            "stars": 24030
           }
         },
         {
@@ -185,10 +185,859 @@
         }
       ],
       "title": "Open Source Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JMLR 2021",
+              "description": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research TAMU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308519128,
+                "language": "Python",
+                "last_commit": "2024-07-15T07:18:56Z",
+                "owner": "divelab",
+                "repo": "DIG",
+                "stars": 2007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2021",
+              "description": "CogDL: A Toolkit for Deep Learning on Graphs THU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176315637,
+                "language": "Python",
+                "last_commit": "2024-02-01T21:24:47Z",
+                "owner": "THUDM",
+                "repo": "CogDL",
+                "stars": 1821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CIM 2021",
+              "description": "Graph Neural Networks in TensorFlow and Keras with Spektral Università della Svizzera italiana [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166213444,
+                "language": "Python",
+                "last_commit": "2024-01-21T16:47:04Z",
+                "owner": "danielegrattarola",
+                "repo": "spektral",
+                "stars": 2395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2019",
+              "description": "Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks AWS [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130375797,
+                "language": "Python",
+                "last_commit": "2025-07-31T23:53:10Z",
+                "owner": "dmlc",
+                "repo": "dgl",
+                "stars": 14281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2019",
+              "description": "AliGraph: A Comprehensive Graph Neural Network Platform Alibaba [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250229724,
+                "language": "C++",
+                "last_commit": "2025-07-04T08:52:27Z",
+                "owner": "alibaba",
+                "repo": "graph-learn",
+                "stars": 1341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2019",
+              "description": "Fast Graph Representation Learning with PyTorch Geometric TU Dortmund University [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106024057,
+                "language": "Python",
+                "last_commit": "2026-08-17T23:02:36Z",
+                "owner": "pyg-team",
+                "repo": "pytorch_geometric",
+                "stars": 24030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2018",
+              "description": "Relational Inductive Biases, Deep Learning, and Graph Networks DeepMind [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146863062,
+                "language": "Python",
+                "last_commit": "2022-12-12T11:28:07Z",
+                "owner": "google-deepmind",
+                "repo": "graph_nets",
+                "stars": 5406
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MLSys 2022",
+              "description": "Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective THU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422471288,
+                "language": "Python",
+                "last_commit": "2023-09-11T12:47:32Z",
+                "owner": "dgSPARSE",
+                "repo": "dgNN",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IPDPS 2021",
+              "description": "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks Indiana University Bloomington [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313742640,
+                "language": "C",
+                "last_commit": "2022-08-12T03:00:59Z",
+                "owner": "HipGraph",
+                "repo": "FusedMM",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SC 2020",
+              "description": "GE-SpMM: General-purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks THU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255820705,
+                "language": "Cuda",
+                "last_commit": "2021-07-03T07:29:03Z",
+                "owner": "hgyhungry",
+                "repo": "ge-spmm",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICCAD 2020",
+              "description": "fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU UCSB [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296451223,
+                "language": "Python",
+                "last_commit": "2021-08-02T05:58:13Z",
+                "owner": "apuaaChen",
+                "repo": "gcnLib",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Kernels"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MLSys 2022",
+              "description": "Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph ShanghaiTech [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433974304,
+                "language": "Cuda",
+                "last_commit": "2022-10-03T04:38:40Z",
+                "owner": "xiezhq-hermann",
+                "repo": "graphiler",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SC 2020",
+              "description": "FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems Cornell [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244581267,
+                "language": "Python",
+                "last_commit": "2020-11-18T06:03:07Z",
+                "owner": "dglai",
+                "repo": "FeatGraph",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Compilers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FAST 2025",
+              "description": "LeapGNN: Accelerating Distributed GNN Training Leveraging Feature-Centric Model Migration ZJU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908497914,
+                "language": "Python",
+                "last_commit": "2025-01-10T08:43:36Z",
+                "owner": "ISCS-ZJU",
+                "repo": "LeapGNN-AE",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2025",
+              "description": "NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism NEU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730578779,
+                "language": "Python",
+                "last_commit": "2024-12-29T07:19:46Z",
+                "owner": "iDC-NEU",
+                "repo": "NeutronTP",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSDI 2023",
+              "description": "MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms UCSB [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619012714,
+                "language": "Cuda",
+                "last_commit": "2024-03-17T18:41:15Z",
+                "owner": "YukeWang96",
+                "repo": "MGG_OSDI23",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIGMOD 2022",
+              "description": "NeutronStar: Distributed GNN Training with Hybrid Management NEU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249326837,
+                "language": "C++",
+                "last_commit": "2024-09-29T11:10:32Z",
+                "owner": "iDC-NEU",
+                "repo": "NeutronStarLite",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2022",
+              "description": "Sancus: Staleness-Aware Communication-Avoiding Full-Graph Decentralized Training in Large-Scale Graph Neural Networks HKUST [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425980085,
+                "language": "Python",
+                "last_commit": "2022-09-05T17:46:50Z",
+                "owner": "chenzhao",
+                "repo": "light-dist-gnn",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLSys 2022",
+              "description": "BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling Rice, UIUC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458956805,
+                "language": "Python",
+                "last_commit": "2023-10-06T21:38:06Z",
+                "owner": "GATECH-EIC",
+                "repo": "BNS-GCN",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR 2022",
+              "description": "PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication Rice [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461637271,
+                "language": "Python",
+                "last_commit": "2023-03-15T19:16:35Z",
+                "owner": "GATECH-EIC",
+                "repo": "PipeGCN",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR 2022",
+              "description": "Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks PSU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373877132,
+                "language": "Python",
+                "last_commit": "2021-11-15T16:25:30Z",
+                "owner": "MortezaRamezani",
+                "repo": "llcg",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SC 2021",
+              "description": "DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks Intel [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130375797,
+                "language": "Python",
+                "last_commit": "2025-07-31T23:53:10Z",
+                "owner": "dmlc",
+                "repo": "dgl",
+                "stars": 14281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSDI 2021",
+              "description": "Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads UCLA [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353957200,
+                "language": "C++",
+                "last_commit": "2021-05-31T18:57:29Z",
+                "owner": "uclasystem",
+                "repo": "dorylus",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EuroSys 2021",
+              "description": "DGCL: An Efficient Communication Library for Distributed GNN Training CUHK [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332288668,
+                "language": "Python",
+                "last_commit": "2021-06-03T08:19:52Z",
+                "owner": "czkkkkkk",
+                "repo": "ragdoll",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SC 2020",
+              "description": "Reducing Communication in Graph Neural Network Training UC Berkeley [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224289279,
+                "language": "Python",
+                "last_commit": "2025-04-11T04:17:06Z",
+                "owner": "PASSIONLab",
+                "repo": "CAGNET",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2020",
+              "description": "G$^3$: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs NUS [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264848754,
+                "language": "Cuda",
+                "last_commit": "2020-08-29T03:48:56Z",
+                "owner": "Xtra-Computing",
+                "repo": "G3",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IA3 2020",
+              "description": "DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs AWS [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130375797,
+                "language": "Python",
+                "last_commit": "2025-07-31T23:53:10Z",
+                "owner": "dmlc",
+                "repo": "dgl",
+                "stars": 14281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLSys 2020",
+              "description": "Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc Stanford [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191659997,
+                "language": "C++",
+                "last_commit": "2020-06-26T23:04:09Z",
+                "owner": "jiazhihao",
+                "repo": "ROC",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Distributed GNN Training Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICDE 2025",
+              "description": "Hyperion: Optimizing SSD Access is All You Need to Enable Cost-efficient Out-of-core GNN Training ZJU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770712333,
+                "language": "Cuda",
+                "last_commit": "2025-01-06T10:20:15Z",
+                "owner": "RC4ML",
+                "repo": "Hyperion",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DaMoN 2024",
+              "description": "In situ neighborhood sampling for large-scale GNN training Boston University [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 796887245,
+                "language": "C++",
+                "last_commit": "2024-07-09T06:14:21Z",
+                "owner": "CASP-Systems-BU",
+                "repo": "damon24-gnn-in-situ-sampling",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EuroSys 2023",
+              "description": "MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks UW–Madison [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351313962,
+                "language": "C++",
+                "last_commit": "2025-02-25T05:31:40Z",
+                "owner": "marius-team",
+                "repo": "marius",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2022",
+              "description": "Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching Seoul National University [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514792979,
+                "language": "Python",
+                "last_commit": "2024-07-10T10:05:21Z",
+                "owner": "SNU-ARC",
+                "repo": "Ginex",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICML 2022",
+              "description": "GraphFM: Improving Large-Scale GNN Training via Feature Momentum TAMU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308519128,
+                "language": "Python",
+                "last_commit": "2024-07-15T07:18:56Z",
+                "owner": "divelab",
+                "repo": "DIG",
+                "stars": 2007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICML 2021",
+              "description": "GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings TU Dortmund University [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335200768,
+                "language": "Python",
+                "last_commit": "2022-08-30T13:41:10Z",
+                "owner": "rusty1s",
+                "repo": "pyg_autoscale",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSDI 2021",
+              "description": "GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs UCSB [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346441699,
+                "language": "Cuda",
+                "last_commit": "2023-03-02T06:59:05Z",
+                "owner": "YukeWang96",
+                "repo": "GNNAdvisor_OSDI21",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Training Systems for Scaling Graphs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neurocomputing 2022",
+              "description": "EPQuant: A Graph Neural Network Compression Approach Based on Product Quantization ZJU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457276567,
+                "language": "Python",
+                "last_commit": "2022-02-17T07:54:58Z",
+                "owner": "Lyun-Huang",
+                "repo": "EPQuant",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR 2022",
+              "description": "EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression Rice [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460990907,
+                "language": "Python",
+                "last_commit": "2022-03-23T00:27:25Z",
+                "owner": "zirui-ray-liu",
+                "repo": "Exact",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PPoPP 2022",
+              "description": "QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core UCSB [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430551689,
+                "language": "Python",
+                "last_commit": "2022-02-12T00:33:20Z",
+                "owner": "YukeWang96",
+                "repo": "QGTC_PPoPP22",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2021",
+              "description": "Binary Graph Neural Networks ICL [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350445314,
+                "language": "Python",
+                "last_commit": "2021-04-08T23:30:37Z",
+                "owner": "mbahri",
+                "repo": "binary_gnn",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2021",
+              "description": "Bi-GCN: Binary Graph Convolutional Network Beihang University [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295747801,
+                "language": "Python",
+                "last_commit": "2024-04-08T05:55:07Z",
+                "owner": "bywmm",
+                "repo": "Bi-GCN",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR 2021",
+              "description": "Degree-Quant: Quantization-Aware Training for Graph Neural Networks Cambridge [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347680173,
+                "language": "Python",
+                "last_commit": "2021-03-18T11:31:04Z",
+                "owner": "camlsys",
+                "repo": "degree-quant",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICTAI 2020",
+              "description": "SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization UCSB [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286918493,
+                "language": "Python",
+                "last_commit": "2020-08-12T04:45:54Z",
+                "owner": "YukeWang96",
+                "repo": "SGQuant",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quantized GNNs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VLDB 2024",
+              "description": "Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses UIUC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 553210719,
+                "language": "Python",
+                "last_commit": "2025-06-13T23:51:37Z",
+                "owner": "jeongminpark417",
+                "repo": "GIDS",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLSys 2022",
+              "description": "Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining MIT [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468479931,
+                "language": "C++",
+                "last_commit": "2023-06-28T23:21:31Z",
+                "owner": "MITIBMxGraph",
+                "repo": "SALIENT",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EuroSys 2022",
+              "description": "GNNLab: A Factored System for Sample-based GNN Training over GPUs SJTU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 474802503,
+                "language": "Python",
+                "last_commit": "2023-07-26T11:47:49Z",
+                "owner": "SJTU-IPADS",
+                "repo": "gnnlab",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PPoPP 2021",
+              "description": "Understanding and Bridging the Gaps in Current GNN Performance Optimizations THU [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316932567,
+                "language": "C++",
+                "last_commit": "2021-11-16T11:47:00Z",
+                "owner": "xxcclong",
+                "repo": "GNN-Computing",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VLDB 2021",
+              "description": "Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture UIUC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356964477,
+                "language": null,
+                "last_commit": "2023-07-01T18:18:07Z",
+                "owner": "K-Wu",
+                "repo": "pytorch-direct_dgl",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TPDS 2021",
+              "description": "Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs USTC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367636698,
+                "language": "Python",
+                "last_commit": "2023-05-23T02:55:00Z",
+                "owner": "zhiqi-0",
+                "repo": "PaGraph",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoCC 2020",
+              "description": "PaGraph: Scaling GNN Training on Large Graphs via Computation-aware Caching USTC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367636698,
+                "language": "Python",
+                "last_commit": "2023-05-23T02:55:00Z",
+                "owner": "zhiqi-0",
+                "repo": "PaGraph",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Dataloaders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FPGA 2020",
+              "description": "GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms USC [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231167550,
+                "language": "Python",
+                "last_commit": "2021-03-06T07:25:08Z",
+                "owner": "GraphSAINT",
+                "repo": "GraphACT",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Training Accelerators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IPDPS 2022",
+              "description": "Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators GaTech [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452248588,
+                "language": "C++",
+                "last_commit": "2025-02-14T18:35:28Z",
+                "owner": "stonne-simulator",
+                "repo": "omega",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HPCA 2022",
+              "description": "GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design Rice, PNNL [paper] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310979302,
+                "language": "Python",
+                "last_commit": "2022-03-30T23:51:45Z",
+                "owner": "GATECH-EIC",
+                "repo": "GCoD",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GNN Inference Accelerators"
+        }
+      ],
+      "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:25:21.598Z",
+    "last_updated": "2026-08-24T14:26:22.727Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
     "original_repository_id": 504471454,
     "original_repository_sha": "a167acd890c8c0d19ad3746cf8751373b133ffb8",
