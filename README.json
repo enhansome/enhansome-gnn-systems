@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24030
+            "stars": 24031
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14281
+            "stars": 14282
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-01-21T16:47:04Z",
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2395
+            "stars": 2396
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-01-21T16:47:04Z",
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2395
+                "stars": 2396
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14282
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24030
+                "stars": 24031
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14282
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14282
               }
             },
             {
@@ -1037,10 +1037,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:36.600Z",
+    "last_updated": "2026-08-26T06:19:37.715Z",
     "original_repository": "ch-wan/awesome-gnn-systems",
     "original_repository_id": 504471454,
-    "original_repository_sha": "7f85b7866e5b88e9e1540168cec5b7c0df13a0d6",
+    "original_repository_sha": "4c9d0bef8d8f1d4fbf4c87c3e11765f6e9ae8e4e",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
