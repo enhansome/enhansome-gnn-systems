@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24031
+            "stars": 24037
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-07-31T23:53:10Z",
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14282
+            "stars": 14281
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-09T19:54:13Z",
             "owner": "microsoft",
             "repo": "DeepGNN",
-            "stars": 142
+            "stars": 143
           }
         }
       ],
@@ -248,7 +248,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14282
+                "stars": 14281
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24031
+                "stars": 24037
               }
             },
             {
@@ -539,7 +539,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14282
+                "stars": 14281
               }
             },
             {
@@ -614,7 +614,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14282
+                "stars": 14281
               }
             },
             {
@@ -1037,9 +1037,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:19:37.715Z",
-    "original_repository": "ch-wan/awesome-gnn-systems",
-    "original_repository_id": 504471454,
+    "last_updated": "2026-08-27T11:44:10.398Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 504471454,
+      "language": "Python",
+      "last_commit": "2026-08-26T00:54:06Z",
+      "owner": "ch-wan",
+      "repo": "awesome-gnn-systems",
+      "stars": 350
+    },
     "original_repository_sha": "4c9d0bef8d8f1d4fbf4c87c3e11765f6e9ae8e4e",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
