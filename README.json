@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T20:53:29Z",
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24037
+            "stars": 24039
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-04-10T12:25:23Z",
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3060
+            "stars": 3059
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2024-01-21T16:47:04Z",
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2396
+            "stars": 2395
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-01-21T16:47:04Z",
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2396
+                "stars": 2395
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24037
+                "stars": 24039
               }
             },
             {
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:10.398Z",
+    "last_updated": "2026-08-27T16:49:47.905Z",
     "original_repository_info": {
       "archived": false,
       "id": 504471454,
