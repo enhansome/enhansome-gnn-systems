@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Neural Network Library for PyTorch",
+            "homepage": "https://pyg.org",
             "id": 106024057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:53:29Z",
+            "open_issues": 1317,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24043
+            "stars": 24043,
+            "topics": [
+              "deep-learning",
+              "geometric-deep-learning",
+              "graph-convolutional-networks",
+              "graph-neural-networks",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -26,12 +37,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+            "homepage": "http://dgl.ai",
             "id": 130375797,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-31T23:53:10Z",
+            "open_issues": 608,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14281
+            "stars": 14281,
+            "topics": [
+              "deep-learning",
+              "graph-neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -42,12 +61,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Graph Nets in Tensorflow",
+            "homepage": "https://arxiv.org/abs/1806.01261",
             "id": 146863062,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-12T11:28:07Z",
+            "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "graph_nets",
-            "stars": 5406
+            "stars": 5406,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "graph-networks",
+              "graphs",
+              "neural-networks",
+              "sonnet",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -58,12 +90,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StellarGraph - Machine Learning on Graphs",
+            "homepage": "https://stellargraph.readthedocs.io/",
             "id": 129366435,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-10T12:25:23Z",
+            "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3059
+            "stars": 3059,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "gcn",
+              "geometric-deep-learning",
+              "graph-analysis",
+              "graph-convolutional-networks",
+              "graph-data",
+              "graph-machine-learning",
+              "graph-neural-networks",
+              "graphs",
+              "heterogeneous-networks",
+              "interpretability",
+              "link-prediction",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "networkx",
+              "python",
+              "saliency-map",
+              "stellargraph-library"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -74,12 +131,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed graph deep learning framework.",
+            "homepage": null,
             "id": 165004157,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-19T12:30:48Z",
+            "open_issues": 222,
             "owner": "alibaba",
             "repo": "euler",
-            "stars": 2897
+            "stars": 2897,
+            "topics": [
+              "deep-learning",
+              "gcn",
+              "ggnn",
+              "graph",
+              "graph-convolutional-networks",
+              "graph-embedding",
+              "graph-learning",
+              "graph-neural-networks",
+              "graphsage",
+              "network-embedding",
+              "node2vec",
+              "random-walk"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -90,12 +165,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph Neural Networks with Keras and Tensorflow 2.",
+            "homepage": "https://graphneural.network",
             "id": 166213444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-21T16:47:04Z",
+            "open_issues": 74,
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2395
+            "stars": 2395,
+            "topics": [
+              "deep-learning",
+              "graph-deep-learning",
+              "graph-neural-networks",
+              "keras",
+              "python",
+              "tensorflow",
+              "tensorflow2"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -106,12 +194,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for graph deep learning research",
+            "homepage": "https://diveintographs.readthedocs.io/",
             "id": 308519128,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-15T07:18:56Z",
+            "open_issues": 43,
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2007
+            "stars": 2007,
+            "topics": [
+              "3d-graph",
+              "deep-learning",
+              "explainable-ml",
+              "graph-generation",
+              "graph-neural-network",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -122,12 +222,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CogDL: A Comprehensive Library for Graph Deep Learning (WWW 2023)",
+            "homepage": "https://cogdl.ai",
             "id": 176315637,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-01T21:24:47Z",
+            "open_issues": 45,
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1821
+            "stars": 1821,
+            "topics": [
+              "gnn-model",
+              "graph-classification",
+              "graph-embedding",
+              "graph-neural-networks",
+              "leaderboard",
+              "link-prediction",
+              "node-classification",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -138,12 +252,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle",
+            "homepage": null,
             "id": 191286408,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-11T05:15:14Z",
+            "open_issues": 63,
             "owner": "PaddlePaddle",
             "repo": "PGL",
-            "stars": 1585
+            "stars": 1585,
+            "topics": [
+              "graph",
+              "graph-learning",
+              "graph-neural-network",
+              "heterogeneous-graph-learning",
+              "metapath"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -154,12 +279,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Graph Neural Network Library in Jax",
+            "homepage": "https://jraph.readthedocs.io/en/latest/",
             "id": 315278570,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-18T13:56:39Z",
+            "open_issues": 19,
             "owner": "google-deepmind",
             "repo": "jraph",
-            "stars": 1474
+            "stars": 1474,
+            "topics": [
+              "deep-learning",
+              "graph-neural-networks",
+              "jax",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -170,12 +305,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Industrial Graph Neural Network Framework",
+            "homepage": null,
             "id": 250229724,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-04T08:52:27Z",
+            "open_issues": 16,
             "owner": "alibaba",
             "repo": "graph-learn",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "aligraph",
+              "dynamic-graph",
+              "dynamic-graph-service",
+              "gnn",
+              "gnn-framework",
+              "gnn-inference",
+              "graph",
+              "graph-neural-networks",
+              "graphlearn",
+              "pytorch",
+              "tensorflow",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         },
@@ -186,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepGNN is a framework for training machine learning models on large scale graph data.",
+            "homepage": null,
             "id": 484143363,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T19:54:13Z",
+            "open_issues": 12,
             "owner": "microsoft",
             "repo": "DeepGNN",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:17.591Z"
         }
@@ -210,12 +368,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for graph deep learning research",
+                "homepage": "https://diveintographs.readthedocs.io/",
                 "id": 308519128,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-15T07:18:56Z",
+                "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2007
+                "stars": 2007,
+                "topics": [
+                  "3d-graph",
+                  "deep-learning",
+                  "explainable-ml",
+                  "graph-generation",
+                  "graph-neural-network",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -226,12 +396,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CogDL: A Comprehensive Library for Graph Deep Learning (WWW 2023)",
+                "homepage": "https://cogdl.ai",
                 "id": 176315637,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-01T21:24:47Z",
+                "open_issues": 45,
                 "owner": "THUDM",
                 "repo": "CogDL",
-                "stars": 1821
+                "stars": 1821,
+                "topics": [
+                  "gnn-model",
+                  "graph-classification",
+                  "graph-embedding",
+                  "graph-neural-networks",
+                  "leaderboard",
+                  "link-prediction",
+                  "node-classification",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -242,12 +426,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Neural Networks with Keras and Tensorflow 2.",
+                "homepage": "https://graphneural.network",
                 "id": 166213444,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-21T16:47:04Z",
+                "open_issues": 74,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2395
+                "stars": 2395,
+                "topics": [
+                  "deep-learning",
+                  "graph-deep-learning",
+                  "graph-neural-networks",
+                  "keras",
+                  "python",
+                  "tensorflow",
+                  "tensorflow2"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -258,12 +455,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+                "homepage": "http://dgl.ai",
                 "id": 130375797,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
+                "open_issues": 608,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14281,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -274,12 +479,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Industrial Graph Neural Network Framework",
+                "homepage": null,
                 "id": 250229724,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-04T08:52:27Z",
+                "open_issues": 16,
                 "owner": "alibaba",
                 "repo": "graph-learn",
-                "stars": 1341
+                "stars": 1341,
+                "topics": [
+                  "aligraph",
+                  "dynamic-graph",
+                  "dynamic-graph-service",
+                  "gnn",
+                  "gnn-framework",
+                  "gnn-inference",
+                  "graph",
+                  "graph-neural-networks",
+                  "graphlearn",
+                  "pytorch",
+                  "tensorflow",
+                  "training"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -290,12 +513,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graph Neural Network Library for PyTorch",
+                "homepage": "https://pyg.org",
                 "id": 106024057,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:53:29Z",
+                "open_issues": 1317,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24043
+                "stars": 24043,
+                "topics": [
+                  "deep-learning",
+                  "geometric-deep-learning",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -306,12 +540,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Graph Nets in Tensorflow",
+                "homepage": "https://arxiv.org/abs/1806.01261",
                 "id": 146863062,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-12T11:28:07Z",
+                "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "graph_nets",
-                "stars": 5406
+                "stars": 5406,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "graph-networks",
+                  "graphs",
+                  "neural-networks",
+                  "sonnet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -329,12 +576,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Mlsys'22] Understanding gnn computational graph: A coordinated computation, io, and memory perspective",
+                "homepage": null,
                 "id": 422471288,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-11T12:47:32Z",
+                "open_issues": 0,
                 "owner": "dgSPARSE",
                 "repo": "dgNN",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "cuda",
+                  "gnn",
+                  "gpu"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -345,12 +601,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of FusedMM method for IPDPS 2021 paper titled \"FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks\"",
+                "homepage": null,
                 "id": 313742640,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-08-12T03:00:59Z",
+                "open_issues": 0,
                 "owner": "HipGraph",
                 "repo": "FusedMM",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "fused-kernel",
+                  "general-purpose-library",
+                  "graph-embedding",
+                  "graph-learning-kernel",
+                  "graph-machine-learning",
+                  "graph-mining",
+                  "graph-neural-netowrks",
+                  "graph-visualization",
+                  "shared-memory-parallel"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -361,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 255820705,
                 "language": "Cuda",
+                "license": "MIT",
                 "last_commit": "2021-07-03T07:29:03Z",
+                "open_issues": 9,
                 "owner": "hgyhungry",
                 "repo": "ge-spmm",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -377,12 +653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 296451223,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-02T05:58:13Z",
+                "open_issues": 3,
                 "owner": "apuaaChen",
                 "repo": "gcnLib",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -400,12 +681,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphiler is a compiler stack built on top of DGL and TorchScript which compiles GNNs defined using user-defined functions (UDFs) into efficient execution plans.",
+                "homepage": null,
                 "id": 433974304,
                 "language": "Cuda",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-03T04:38:40Z",
+                "open_issues": 2,
                 "owner": "xiezhq-hermann",
                 "repo": "graphiler",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "graph-neural-network",
+                  "machine-learning-compiler"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -416,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sparse kernels for GNNs based on TVM",
+                "homepage": null,
                 "id": 244581267,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-18T06:03:07Z",
+                "open_issues": 0,
                 "owner": "dglai",
                 "repo": "FeatGraph",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -439,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 908497914,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-10T08:43:36Z",
+                "open_issues": 0,
                 "owner": "ISCS-ZJU",
                 "repo": "LeapGNN-AE",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -455,12 +754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 730578779,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-29T07:19:46Z",
+                "open_issues": 0,
                 "owner": "iDC-NEU",
                 "repo": "NeutronTP",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -471,12 +775,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifact for OSDI'23: MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms.",
+                "homepage": null,
                 "id": 619012714,
                 "language": "Cuda",
+                "license": null,
                 "last_commit": "2024-03-17T18:41:15Z",
+                "open_issues": 2,
                 "owner": "YukeWang96",
                 "repo": "MGG_OSDI23",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "deeplearning",
+                  "gnn",
+                  "gpu",
+                  "graph",
+                  "graphneuralnetwork",
+                  "multi-gpu",
+                  "nvshmem"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -487,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Distributed System for GNN Training ",
+                "homepage": null,
                 "id": 249326837,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-29T11:10:32Z",
+                "open_issues": 2,
                 "owner": "iDC-NEU",
                 "repo": "NeutronStarLite",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -503,12 +825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 425980085,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-05T17:46:50Z",
+                "open_issues": 6,
                 "owner": "chenzhao",
                 "repo": "light-dist-gnn",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -519,12 +846,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MLSys 2022] \"BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling\" by Cheng Wan, Youjie Li, Ang Li, Nam Sung Kim, Yingyan Lin",
+                "homepage": null,
                 "id": 458956805,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T21:38:06Z",
+                "open_issues": 0,
                 "owner": "GATECH-EIC",
                 "repo": "BNS-GCN",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "distributed-training",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "sampling"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -535,12 +872,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2022] \"PipeGCN: Efficient Full-Graph Training of Graph Convolutional Networks with Pipelined Feature Communication\" by Cheng Wan, Youjie Li, Cameron R. Wolfe, Anastasios Kyrillidis, Nam Sung Kim, Yingyan Lin",
+                "homepage": null,
                 "id": 461637271,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-15T19:16:35Z",
+                "open_issues": 0,
                 "owner": "GATECH-EIC",
                 "repo": "PipeGCN",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "distributed-training",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -551,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for Learn Locally Correct Globally",
+                "homepage": null,
                 "id": 373877132,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-15T16:25:30Z",
+                "open_issues": 1,
                 "owner": "MortezaRamezani",
                 "repo": "llcg",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -567,12 +918,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+                "homepage": "http://dgl.ai",
                 "id": 130375797,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
+                "open_issues": 608,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14281,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -583,12 +942,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dorylus: Affordable, Scalable, and Accurate GNN Training",
+                "homepage": null,
                 "id": 353957200,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-05-31T18:57:29Z",
+                "open_issues": 3,
                 "owner": "uclasystem",
                 "repo": "dorylus",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "aws-lambda-threads",
+                  "gnn",
+                  "serverless-computing"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -599,12 +967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 332288668,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-03T08:19:52Z",
+                "open_issues": 1,
                 "owner": "czkkkkkk",
                 "repo": "ragdoll",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -615,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 224289279,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-11T04:17:06Z",
+                "open_issues": 1,
                 "owner": "PASSIONLab",
                 "repo": "CAGNET",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -631,12 +1009,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "G3: A Programmable GNN Training System on GPU",
+                "homepage": null,
                 "id": 264848754,
                 "language": "Cuda",
+                "license": "Apache-2.0",
                 "last_commit": "2020-08-29T03:48:56Z",
+                "open_issues": 1,
                 "owner": "Xtra-Computing",
                 "repo": "G3",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "deep-neural-networks",
+                  "gnn",
+                  "gnn-architectures",
+                  "gpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "graph-neural-network",
+                  "graph-processing",
+                  "graph-systems",
+                  "gunrock"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -647,12 +1041,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+                "homepage": "http://dgl.ai",
                 "id": 130375797,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
+                "open_issues": 608,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14281,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -663,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Multi-GPU GNN Framework",
+                "homepage": null,
                 "id": 191659997,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2020-06-26T23:04:09Z",
+                "open_issues": 3,
                 "owner": "jiazhihao",
                 "repo": "ROC",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -686,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cost-efficient Out-of-core GNN Training System on TB-scale Graph [ICDE 25] ",
+                "homepage": null,
                 "id": 770712333,
                 "language": "Cuda",
+                "license": null,
                 "last_commit": "2025-01-06T10:20:15Z",
+                "open_issues": 1,
                 "owner": "RC4ML",
                 "repo": "Hyperion",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -702,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 796887245,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-09T06:14:21Z",
+                "open_issues": 1,
                 "owner": "CASP-Systems-BU",
                 "repo": "damon24-gnn-in-situ-sampling",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -718,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large scale graph learning on a single machine. ",
+                "homepage": "https://marius-project.org",
                 "id": 351313962,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-25T05:31:40Z",
+                "open_issues": 34,
                 "owner": "marius-team",
                 "repo": "marius",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -734,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ginex: SSD-enabled Billion-scale Graph Neural Network Training on a Single Machine via Provably Optimal In-memory Caching",
+                "homepage": null,
                 "id": 514792979,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-10T10:05:21Z",
+                "open_issues": 3,
                 "owner": "SNU-ARC",
                 "repo": "Ginex",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -750,12 +1177,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for graph deep learning research",
+                "homepage": "https://diveintographs.readthedocs.io/",
                 "id": 308519128,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-15T07:18:56Z",
+                "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2007
+                "stars": 2007,
+                "topics": [
+                  "3d-graph",
+                  "deep-learning",
+                  "explainable-ml",
+                  "graph-generation",
+                  "graph-neural-network",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -766,12 +1205,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings\" in PyTorch",
+                "homepage": "http://arxiv.org/abs/2106.05609",
                 "id": 335200768,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-30T13:41:10Z",
+                "open_issues": 18,
                 "owner": "rusty1s",
                 "repo": "pyg_autoscale",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "graph-neural-networks",
+                  "pytorch",
+                  "pytorch-geometric",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -782,12 +1231,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifact for OSDI'21 GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs.",
+                "homepage": "https://yukewang96.github.io/OSDI21_AE/",
                 "id": 346441699,
                 "language": "Cuda",
+                "license": null,
                 "last_commit": "2023-03-02T06:59:05Z",
+                "open_issues": 4,
                 "owner": "YukeWang96",
                 "repo": "GNNAdvisor_OSDI21",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "cuda",
+                  "deep-learning",
+                  "gnn",
+                  "gpu",
+                  "graph",
+                  "graphneuralnetwork",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -805,12 +1267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the implementation of our paper: EPQuant: An Efficient Quantization Methodology for Graph Neural Networks with Enhanced Product Quantization.",
+                "homepage": null,
                 "id": 457276567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-17T07:54:58Z",
+                "open_issues": 1,
                 "owner": "Lyun-Huang",
                 "repo": "EPQuant",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -821,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 460990907,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-23T00:27:25Z",
+                "open_issues": 0,
                 "owner": "zirui-ray-liu",
                 "repo": "Exact",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -837,12 +1309,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifact for PPoPP22 QGTC: Accelerating Quantized GNN via GPU Tensor Core.",
+                "homepage": "https://yukewang96.github.io/PPoPP22_QGTC/",
                 "id": 430551689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-02-12T00:33:20Z",
+                "open_issues": 1,
                 "owner": "YukeWang96",
                 "repo": "QGTC_PPoPP22",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "cuda",
+                  "pytorch",
+                  "tensorcore"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -853,12 +1334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our paper \"Binary Graph Neural Networks\", CVPR 2021",
+                "homepage": null,
                 "id": 350445314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-08T23:30:37Z",
+                "open_issues": 1,
                 "owner": "mbahri",
                 "repo": "binary_gnn",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -869,12 +1355,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"Binary Graph Convolutional Network\", CVPR 2021, and TPAMI 2024.",
+                "homepage": null,
                 "id": 295747801,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-08T05:55:07Z",
+                "open_issues": 1,
                 "owner": "bywmm",
                 "repo": "Bi-GCN",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "binary-gcn",
+                  "binary-gnns",
+                  "gcn"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -885,12 +1380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICLR 2021",
+                "homepage": null,
                 "id": 347680173,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-03-18T11:31:04Z",
+                "open_issues": 5,
                 "owner": "camlsys",
                 "repo": "degree-quant",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -901,12 +1401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization",
+                "homepage": null,
                 "id": 286918493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-12T04:45:54Z",
+                "open_issues": 0,
                 "owner": "YukeWang96",
                 "repo": "SGQuant",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -924,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 553210719,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-13T23:51:37Z",
+                "open_issues": 13,
                 "owner": "jeongminpark417",
                 "repo": "GIDS",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -940,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official SALIENT system described in the paper \"Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining\".",
+                "homepage": null,
                 "id": 468479931,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-28T23:21:31Z",
+                "open_issues": 0,
                 "owner": "MITIBMxGraph",
                 "repo": "SALIENT",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -956,12 +1471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Factored System for Sample-based GNN Training over GPUs",
+                "homepage": null,
                 "id": 474802503,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-26T11:47:49Z",
+                "open_issues": 4,
                 "owner": "SJTU-IPADS",
                 "repo": "gnnlab",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -972,12 +1492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artifact for PPoPP20 \"Understanding and Bridging the Gaps in Current GNN Performance Optimizations\"",
+                "homepage": null,
                 "id": 316932567,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-11-16T11:47:00Z",
+                "open_issues": 1,
                 "owner": "xxcclong",
                 "repo": "GNN-Computing",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -988,12 +1513,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture (accepted by PVLDB)",
+                "homepage": "https://arxiv.org/abs/2103.03330",
                 "id": 356964477,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-01T18:18:07Z",
+                "open_issues": 6,
                 "owner": "K-Wu",
                 "repo": "pytorch-direct_dgl",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "cuda",
+                  "deep-learning",
+                  "dgl",
+                  "gnn",
+                  "gpu",
+                  "pytorch",
+                  "vldb"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -1004,12 +1542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoCC'20 and TPDS'21: Scaling GNN Training on Large Graphs via Computation-aware Caching and Partitioning.",
+                "homepage": null,
                 "id": 367636698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-23T02:55:00Z",
+                "open_issues": 5,
                 "owner": "zhiqi-0",
                 "repo": "PaGraph",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -1020,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoCC'20 and TPDS'21: Scaling GNN Training on Large Graphs via Computation-aware Caching and Partitioning.",
+                "homepage": null,
                 "id": 367636698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-23T02:55:00Z",
+                "open_issues": 5,
                 "owner": "zhiqi-0",
                 "repo": "PaGraph",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -1043,12 +1591,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FPGA 2020] Open sourced implementation for the ACM/SIGDA FPGA '20 paper titled \"GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms\"",
+                "homepage": "https://arxiv.org/abs/2001.02498",
                 "id": 231167550,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-06T07:25:08Z",
+                "open_issues": 1,
                 "owner": "GraphSAINT",
                 "repo": "GraphACT",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "fpga",
+                  "gcn"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -1066,12 +1622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simulation framework for modeling efficiency of Graph Neural Network Dataflows",
+                "homepage": null,
                 "id": 452248588,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-02-14T18:35:28Z",
+                "open_issues": 1,
                 "owner": "stonne-simulator",
                 "repo": "omega",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             },
@@ -1082,12 +1643,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[HPCA 2022] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design",
+                "homepage": "https://arxiv.org/abs/2112.11594",
                 "id": 310979302,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-30T23:51:45Z",
+                "open_issues": 0,
                 "owner": "GATECH-EIC",
                 "repo": "GCoD",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "co-design",
+                  "gcn",
+                  "reordering"
+                ]
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
             }
@@ -1101,15 +1671,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:17.591Z",
+    "last_updated": "2026-08-29T04:46:23.537Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome GNN systems.",
+      "homepage": null,
       "id": 504471454,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-28T08:05:22Z",
+      "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
-      "stars": 350
+      "stars": 350,
+      "topics": [
+        "awesome-list",
+        "awesome-papers",
+        "graph-neural-networks",
+        "graph-systems"
+      ]
     },
     "original_repository_sha": "65433336e8e44a1ea61b9e1b4b1ac954e6727b0b",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
