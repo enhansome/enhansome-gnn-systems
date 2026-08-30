@@ -1,6 +1,6 @@
 # Awesome Graph Neural Network Systems with stars
 
-A list of awesome systems for graph neural network (GNN). If you have any comment, please create an [issue](https://github.com/chwan1016/awesome-gnn-systems/issues) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-28 or [pull request](https://github.com/chwan1016/awesome-gnn-systems/pulls) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-28.
+A list of awesome systems for graph neural network (GNN). If you have any comment, please create an [issue](https://github.com/chwan1016/awesome-gnn-systems/issues) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-30 or [pull request](https://github.com/chwan1016/awesome-gnn-systems/pulls) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-30.
 
 ## Contents
 
@@ -20,7 +20,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ## Open Source Libraries
 
-* [PyG: Graph Neural Network Library for PyTorch](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,044 | 🐛 1,317 | 🌐 Python | 📅 2026-08-24 ![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github\&label=Stars)
+* [PyG: Graph Neural Network Library for PyTorch](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,045 | 🐛 1,317 | 🌐 Python | 📅 2026-08-24 ![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github\&label=Stars)
 * [DGL: Python Package Built to Ease Deep Learning on Graph](https://github.com/dmlc/dgl) ⭐ 14,282 | 🐛 608 | 🌐 Python | 📅 2025-07-31 ![GitHub stars](https://img.shields.io/github/stars/dmlc/dgl.svg?logo=github\&label=Stars)
 * [Graph Nets: Build Graph Nets in Tensorflow](https://github.com/deepmind/graph_nets) ⭐ 5,406 | 🐛 9 | 🌐 Python | 📅 2022-12-12 ![GitHub stars](https://img.shields.io/github/stars/deepmind/graph_nets.svg?logo=github\&label=Stars)
 * [StellarGraph: Machine Learning on Graphs](https://github.com/stellargraph/stellargraph) ⭐ 3,059 | 🐛 326 | 🌐 Python | 📅 2024-04-10 ![GitHub stars](https://img.shields.io/github/stars/stellargraph/stellargraph.svg?logo=github\&label=Stars)
@@ -54,7 +54,7 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 |  CIM 2021  |                Graph Neural Networks in TensorFlow and Keras with Spektral               | Università della Svizzera italiana |           [\[paper\]](https://arxiv.org/abs/2006.12138)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee)          |  [\[code\]](https://github.com/danielegrattarola/spektral) ⭐ 2,395 \| 🐛 74 \| 🌐 Python \| 📅 2024-01-21![GitHub stars](https://img.shields.io/github/stars/danielegrattarola/spektral.svg?logo=github\&label=Stars)  |
 | arXiv 2019 | Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph Neural Networks |                 AWS                |           [\[paper\]](https://arxiv.org/abs/1909.01315)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee)          |                   [\[code\]](https://github.com/dmlc/dgl) ⭐ 14,282 \| 🐛 608 \| 🌐 Python \| 📅 2025-07-31![GitHub stars](https://img.shields.io/github/stars/dmlc/dgl.svg?logo=github\&label=Stars)                   |
 |  VLDB 2019 |                  AliGraph: A Comprehensive Graph Neural Network Platform                 |               Alibaba              | [\[paper\]](https://dl.acm.org/doi/pdf/10.14778/3352063.3352127)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee) |           [\[code\]](https://github.com/alibaba/graph-learn) ⭐ 1,341 \| 🐛 16 \| 🌐 C++ \| 📅 2025-07-04![GitHub stars](https://img.shields.io/github/stars/alibaba/graph-learn.svg?logo=github\&label=Stars)          |
-| arXiv 2019 |                 Fast Graph Representation Learning with PyTorch Geometric                |       TU Dortmund University       |           [\[paper\]](https://arxiv.org/abs/1903.02428)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee)          | [\[code\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,044 \| 🐛 1,317 \| 🌐 Python \| 📅 2026-08-24![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github\&label=Stars) |
+| arXiv 2019 |                 Fast Graph Representation Learning with PyTorch Geometric                |       TU Dortmund University       |           [\[paper\]](https://arxiv.org/abs/1903.02428)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee)          | [\[code\]](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,045 \| 🐛 1,317 \| 🌐 Python \| 📅 2026-08-24![GitHub stars](https://img.shields.io/github/stars/rusty1s/pytorch_geometric.svg?logo=github\&label=Stars) |
 | arXiv 2018 |              Relational Inductive Biases, Deep Learning, and Graph Networks              |              DeepMind              |           [\[paper\]](https://arxiv.org/abs/1806.01261)![Scholar citations](https://img.shields.io/badge/Citations-0-_.svg?logo=google-scholar\&labelColor=4f4f4f\&color=3388ee)          |          [\[code\]](https://github.com/deepmind/graph_nets) ⭐ 5,406 \| 🐛 9 \| 🌐 Python \| 📅 2022-12-12![GitHub stars](https://img.shields.io/github/stars/deepmind/graph_nets.svg?logo=github\&label=Stars)         |
 
 ### GNN Kernels
@@ -192,8 +192,8 @@ A list of awesome systems for graph neural network (GNN). If you have any commen
 
 ## Contribute
 
-We welcome contributions to [this repository](https://github.com/chwan1016/awesome-gnn-systems) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-28. To add new papers to this list, please update JSON files under `./res/papers/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
+We welcome contributions to [this repository](https://github.com/chwan1016/awesome-gnn-systems) ⭐ 350 | 🐛 1 | 🌐 Python | 📅 2026-08-30. To add new papers to this list, please update JSON files under `./res/papers/`. Our bots will update the paper list in `README.md` automatically. The citations of newly added papers will be updated within one day.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
