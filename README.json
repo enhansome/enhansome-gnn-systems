@@ -19,7 +19,7 @@
             "open_issues": 1317,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24045,
+            "stars": 24046,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -99,7 +99,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3059,
+            "stars": 3058,
             "topics": [
               "data-science",
               "deep-learning",
@@ -140,7 +140,7 @@
             "open_issues": 222,
             "owner": "alibaba",
             "repo": "euler",
-            "stars": 2897,
+            "stars": 2896,
             "topics": [
               "deep-learning",
               "gcn",
@@ -522,7 +522,7 @@
                 "open_issues": 1317,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24045,
+                "stars": 24046,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1123,7 +1123,7 @@
                 "open_issues": 1,
                 "owner": "CASP-Systems-BU",
                 "repo": "damon24-gnn-in-situ-sampling",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:42:12.599Z",
+    "last_updated": "2026-08-31T11:51:14.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-30T02:33:49Z",
+      "last_commit": "2026-08-31T02:29:08Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "f6737b2040b8980cadf7afa95daeeda0d2ece6b5",
+    "original_repository_sha": "6b8d742c7e3914060cf98600d966e9ca277e81f6",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
