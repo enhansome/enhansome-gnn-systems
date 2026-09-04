@@ -19,7 +19,7 @@
             "open_issues": 1321,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24057,
+            "stars": 24061,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "graph_nets",
-            "stars": 5406,
+            "stars": 5405,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -174,7 +174,7 @@
             "open_issues": 74,
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2395,
+            "stars": 2396,
             "topics": [
               "deep-learning",
               "graph-deep-learning",
@@ -435,7 +435,7 @@
                 "open_issues": 74,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2395,
+                "stars": 2396,
                 "topics": [
                   "deep-learning",
                   "graph-deep-learning",
@@ -522,7 +522,7 @@
                 "open_issues": 1321,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24057,
+                "stars": 24061,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -549,7 +549,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "graph_nets",
-                "stars": 5406,
+                "stars": 5405,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:06:31.676Z",
+    "last_updated": "2026-09-04T09:58:31.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
