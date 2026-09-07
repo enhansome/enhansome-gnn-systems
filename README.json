@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1322,
+            "open_issues": 1325,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24067,
+            "stars": 24068,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-07-31T23:53:10Z",
-            "open_issues": 608,
+            "open_issues": 609,
             "owner": "dmlc",
             "repo": "dgl",
             "stars": 14281,
@@ -99,7 +99,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3059,
+            "stars": 3058,
             "topics": [
               "data-science",
               "deep-learning",
@@ -461,7 +461,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
-                "open_issues": 608,
+                "open_issues": 609,
                 "owner": "dmlc",
                 "repo": "dgl",
                 "stars": 14281,
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1322,
+                "open_issues": 1325,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24067,
+                "stars": 24068,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -924,7 +924,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
-                "open_issues": 608,
+                "open_issues": 609,
                 "owner": "dmlc",
                 "repo": "dgl",
                 "stars": 14281,
@@ -1047,7 +1047,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-31T23:53:10Z",
-                "open_issues": 608,
+                "open_issues": 609,
                 "owner": "dmlc",
                 "repo": "dgl",
                 "stars": 14281,
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:40:53.556Z",
+    "last_updated": "2026-09-07T10:45:08.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-06T02:05:46Z",
+      "last_commit": "2026-09-07T02:03:31Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "e7dc8ea1ce64794016152d07f86a6a240f3c4f90",
+    "original_repository_sha": "f50ed7a91f81887ee83bbdd0437ca453c535eb78",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
