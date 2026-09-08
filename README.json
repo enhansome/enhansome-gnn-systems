@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1325,
+            "open_issues": 1327,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24068,
+            "stars": 24069,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1325,
+                "open_issues": 1327,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24068,
+                "stars": 24069,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:45:08.860Z",
+    "last_updated": "2026-09-08T10:06:09.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-07T02:03:31Z",
+      "last_commit": "2026-09-08T02:17:36Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "f50ed7a91f81887ee83bbdd0437ca453c535eb78",
+    "original_repository_sha": "3b0afa43263071dfd2d79c4002c7adfb9086f1a4",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
