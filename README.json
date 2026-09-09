@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1327,
+            "open_issues": 1329,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24069,
@@ -314,7 +314,7 @@
             "open_issues": 16,
             "owner": "alibaba",
             "repo": "graph-learn",
-            "stars": 1341,
+            "stars": 1340,
             "topics": [
               "aligraph",
               "dynamic-graph",
@@ -488,7 +488,7 @@
                 "open_issues": 16,
                 "owner": "alibaba",
                 "repo": "graph-learn",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "aligraph",
                   "dynamic-graph",
@@ -519,7 +519,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1327,
+                "open_issues": 1329,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24069,
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:06:09.233Z",
+    "last_updated": "2026-09-09T10:08:32.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-08T02:17:36Z",
+      "last_commit": "2026-09-09T02:22:59Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "3b0afa43263071dfd2d79c4002c7adfb9086f1a4",
+    "original_repository_sha": "78d901a341c8f047a2bc04f8a64048c7f2520011",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
