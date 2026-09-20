@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1339,
+            "open_issues": 1341,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24091,
+            "stars": 24094,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "graph_nets",
-            "stars": 5405,
+            "stars": 5406,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1339,
+                "open_issues": 1341,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24091,
+                "stars": 24094,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -549,7 +549,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "graph_nets",
-                "stars": 5405,
+                "stars": 5406,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:44:05.059Z",
+    "last_updated": "2026-09-20T10:07:49.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
