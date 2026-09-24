@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1345,
+            "open_issues": 1346,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24096,
+            "stars": 24097,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1345,
+                "open_issues": 1346,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24096,
+                "stars": 24097,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1389,7 +1389,7 @@
                 "open_issues": 5,
                 "owner": "camlsys",
                 "repo": "degree-quant",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:43:17.591Z"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:17:53.735Z",
+    "last_updated": "2026-09-24T10:31:40.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-23T02:41:14Z",
+      "last_commit": "2026-09-24T02:27:30Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "7f55e0bc6325aa5e7a9b5d5327059985d8efa89a",
+    "original_repository_sha": "6e0830834178a415245e8fa61ccaf0da51a29464",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
