@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1346,
+            "open_issues": 1347,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24097,
+            "stars": 24098,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -46,7 +46,7 @@
             "open_issues": 610,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14285,
+            "stars": 14286,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -99,7 +99,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3058,
+            "stars": 3059,
             "topics": [
               "data-science",
               "deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 43,
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2009,
+            "stars": 2010,
             "topics": [
               "3d-graph",
               "deep-learning",
@@ -377,7 +377,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2009,
+                "stars": 2010,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14286,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1346,
+                "open_issues": 1347,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24097,
+                "stars": 24098,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -927,7 +927,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14286,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14286,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1186,7 +1186,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2009,
+                "stars": 2010,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:31:40.661Z",
+    "last_updated": "2026-09-25T10:35:15.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-24T02:27:30Z",
+      "last_commit": "2026-09-25T02:41:14Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "6e0830834178a415245e8fa61ccaf0da51a29464",
+    "original_repository_sha": "4f8c3ee324c614cea3f14497e1f55f6809c947c3",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
