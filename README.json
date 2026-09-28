@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1348,
+            "open_issues": 1349,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24098,
+            "stars": 24097,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -46,7 +46,7 @@
             "open_issues": 610,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14286,
+            "stars": 14284,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -231,7 +231,7 @@
             "open_issues": 45,
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1821,
+            "stars": 1820,
             "topics": [
               "gnn-model",
               "graph-classification",
@@ -261,7 +261,7 @@
             "open_issues": 63,
             "owner": "PaddlePaddle",
             "repo": "PGL",
-            "stars": 1585,
+            "stars": 1584,
             "topics": [
               "graph",
               "graph-learning",
@@ -288,7 +288,7 @@
             "open_issues": 19,
             "owner": "google-deepmind",
             "repo": "jraph",
-            "stars": 1474,
+            "stars": 1473,
             "topics": [
               "deep-learning",
               "graph-neural-networks",
@@ -405,7 +405,7 @@
                 "open_issues": 45,
                 "owner": "THUDM",
                 "repo": "CogDL",
-                "stars": 1821,
+                "stars": 1820,
                 "topics": [
                   "gnn-model",
                   "graph-classification",
@@ -464,7 +464,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14286,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1348,
+                "open_issues": 1349,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24097,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -927,7 +927,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14286,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14286,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:48:19.693Z",
+    "last_updated": "2026-09-28T12:01:19.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
