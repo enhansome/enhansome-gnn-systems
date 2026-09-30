@@ -15,11 +15,11 @@
             "id": 106024057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:22:42Z",
-            "open_issues": 1354,
+            "last_commit": "2026-09-29T17:21:23Z",
+            "open_issues": 1355,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24098,
+            "stars": 24102,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -174,7 +174,7 @@
             "open_issues": 74,
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2396,
+            "stars": 2395,
             "topics": [
               "deep-learning",
               "graph-deep-learning",
@@ -344,8 +344,8 @@
             "id": 484143363,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T00:35:07Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-30T06:49:16Z",
+            "open_issues": 15,
             "owner": "microsoft",
             "repo": "DeepGNN",
             "stars": 143,
@@ -435,7 +435,7 @@
                 "open_issues": 74,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2396,
+                "stars": 2395,
                 "topics": [
                   "deep-learning",
                   "graph-deep-learning",
@@ -518,11 +518,11 @@
                 "id": 106024057,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T23:22:42Z",
-                "open_issues": 1354,
+                "last_commit": "2026-09-29T17:21:23Z",
+                "open_issues": 1355,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24098,
+                "stars": 24102,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:35:45.169Z",
+    "last_updated": "2026-09-30T11:23:13.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-29T03:29:13Z",
+      "last_commit": "2026-09-30T03:14:48Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "1aae11a6c6c06f46d832fefdd63bb92d14a366bd",
+    "original_repository_sha": "08b36b493b6faadfef118132cfe0f8f9cd447889",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
