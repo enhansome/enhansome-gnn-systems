@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "PyG: Graph Neural Network Library for PyTorch",
-          "description": null,
+          "description": "pyg-team/pytorch_geometric",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T17:21:23Z",
-            "open_issues": 1360,
+            "open_issues": 1358,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24103,
+            "stars": 24104,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "DGL: Python Package Built to Ease Deep Learning on Graph",
-          "description": null,
+          "description": "dmlc/dgl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
             "open_issues": 610,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14285,
+            "stars": 14284,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -57,7 +57,7 @@
         {
           "node_type": "item",
           "title": "Graph Nets: Build Graph Nets in Tensorflow",
-          "description": null,
+          "description": "google-deepmind/graph_nets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
             "open_issues": 9,
             "owner": "google-deepmind",
             "repo": "graph_nets",
-            "stars": 5407,
+            "stars": 5406,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -86,7 +86,7 @@
         {
           "node_type": "item",
           "title": "StellarGraph: Machine Learning on Graphs",
-          "description": null,
+          "description": "stellargraph/stellargraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "Euler: A Distributed Graph Deep Learning Framework",
-          "description": null,
+          "description": "alibaba/euler",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "Spektral: Graph Neural Networks with Keras and Tensorflow 2",
-          "description": null,
+          "description": "danielegrattarola/spektral",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "DIG: A Turnkey Library for Diving into Graph Deep Learning Research",
-          "description": null,
+          "description": "divelab/DIG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -218,7 +218,7 @@
         {
           "node_type": "item",
           "title": "CogDL: An Extensive Toolkit for Deep Learning on Graphs",
-          "description": null,
+          "description": "THUDM/CogDL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "PGL: An Efficient and Flexible Graph Learning Framework Based on PaddlePaddle",
-          "description": null,
+          "description": "PaddlePaddle/PGL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
         {
           "node_type": "item",
           "title": "Jraph: A Graph Neural Network Library in Jax",
-          "description": null,
+          "description": "google-deepmind/jraph",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "Graph-Learn: An Industrial Graph Neural Network Framework",
-          "description": null,
+          "description": "alibaba/graph-learn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -335,7 +335,7 @@
         {
           "node_type": "item",
           "title": "DeepGNN: a Framework for Training Machine Learning Models on Large Scale Graph Data",
-          "description": null,
+          "description": "microsoft/DeepGNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -464,7 +464,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T17:21:23Z",
-                "open_issues": 1360,
+                "open_issues": 1358,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24103,
+                "stars": 24104,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -549,7 +549,7 @@
                 "open_issues": 9,
                 "owner": "google-deepmind",
                 "repo": "graph_nets",
-                "stars": 5407,
+                "stars": 5406,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -927,7 +927,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14285,
+                "stars": 14284,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:22:33.383Z",
+    "last_updated": "2026-10-03T04:46:18.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-02T03:22:17Z",
+      "last_commit": "2026-10-03T03:09:47Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "3ca18edae3b5d617f5243a7b6f3d29d27d2f56c8",
+    "original_repository_sha": "f6eb06a8fddc0a8e365250d60b6af8b194f11291",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
