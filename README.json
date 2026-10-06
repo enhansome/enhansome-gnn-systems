@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-06T01:41:35Z",
-            "open_issues": 1361,
+            "open_issues": 1362,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24109,
@@ -519,7 +519,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T01:41:35Z",
-                "open_issues": 1361,
+                "open_issues": 1362,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24109,
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:58.984Z",
+    "last_updated": "2026-10-06T12:14:24.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
