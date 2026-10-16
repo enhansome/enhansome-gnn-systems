@@ -19,7 +19,7 @@
             "open_issues": 1377,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24120,
+            "stars": 24124,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -522,7 +522,7 @@
                 "open_issues": 1377,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24120,
+                "stars": 24124,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:21:11.225Z",
+    "last_updated": "2026-10-16T10:08:18.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
