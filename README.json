@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-21T23:53:00Z",
-            "open_issues": 1381,
+            "open_issues": 1382,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24129,
+            "stars": 24128,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 43,
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2008,
+            "stars": 2009,
             "topics": [
               "3d-graph",
               "deep-learning",
@@ -377,7 +377,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2008,
+                "stars": 2009,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -519,10 +519,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T23:53:00Z",
-                "open_issues": 1381,
+                "open_issues": 1382,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24129,
+                "stars": 24128,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1186,7 +1186,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2008,
+                "stars": 2009,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:33:49.101Z",
+    "last_updated": "2026-10-27T11:02:51.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1683,7 +1683,7 @@
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
-      "stars": 352,
+      "stars": 353,
       "topics": [
         "awesome-list",
         "awesome-papers",
