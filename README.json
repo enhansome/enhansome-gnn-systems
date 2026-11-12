@@ -46,7 +46,7 @@
             "open_issues": 611,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14291,
+            "stars": 14290,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -231,7 +231,7 @@
             "open_issues": 45,
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1820,
+            "stars": 1819,
             "topics": [
               "gnn-model",
               "graph-classification",
@@ -405,7 +405,7 @@
                 "open_issues": 45,
                 "owner": "THUDM",
                 "repo": "CogDL",
-                "stars": 1820,
+                "stars": 1819,
                 "topics": [
                   "gnn-model",
                   "graph-classification",
@@ -464,7 +464,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14291,
+                "stars": 14290,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -927,7 +927,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14291,
+                "stars": 14290,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14291,
+                "stars": 14290,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:58:34.270Z",
+    "last_updated": "2026-11-12T13:59:53.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,11 +1679,11 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-11T03:59:00Z",
+      "last_commit": "2026-11-12T05:11:17Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
-      "stars": 354,
+      "stars": 355,
       "topics": [
         "awesome-list",
         "awesome-papers",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "e1d1e24bf3e166d2374c2892bdfc8882a0eebeb3",
+    "original_repository_sha": "ad184ce99d55af2de5029748817af37231438d24",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
