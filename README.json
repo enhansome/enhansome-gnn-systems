@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1402,
+            "open_issues": 1403,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24142,
@@ -46,7 +46,7 @@
             "open_issues": 611,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14290,
+            "stars": 14291,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -464,7 +464,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14290,
+                "stars": 14291,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -519,7 +519,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1402,
+                "open_issues": 1403,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24142,
@@ -927,7 +927,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14290,
+                "stars": 14291,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14290,
+                "stars": 14291,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:31:15.982Z",
+    "last_updated": "2026-11-15T12:58:29.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
