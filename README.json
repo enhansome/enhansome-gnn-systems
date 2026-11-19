@@ -46,7 +46,7 @@
             "open_issues": 611,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14297,
+            "stars": 14298,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -203,7 +203,7 @@
             "open_issues": 43,
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2010,
+            "stars": 2009,
             "topics": [
               "3d-graph",
               "deep-learning",
@@ -377,7 +377,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2010,
+                "stars": 2009,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14297,
+                "stars": 14298,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -927,7 +927,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14297,
+                "stars": 14298,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14297,
+                "stars": 14298,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1186,7 +1186,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2010,
+                "stars": 2009,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:35:18.681Z",
+    "last_updated": "2026-11-19T14:42:44.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-18T05:17:04Z",
+      "last_commit": "2026-11-19T05:17:58Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "cc26d522a2c37062b018c3bea0179069ec297df5",
+    "original_repository_sha": "f71465da3303cab58c5234b6a7ae1b3fa9374720",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
