@@ -19,7 +19,7 @@
             "open_issues": 1407,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24149,
+            "stars": 24148,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -46,7 +46,7 @@
             "open_issues": 611,
             "owner": "dmlc",
             "repo": "dgl",
-            "stars": 14298,
+            "stars": 14297,
             "topics": [
               "deep-learning",
               "graph-neural-networks"
@@ -70,7 +70,7 @@
             "open_issues": 10,
             "owner": "google-deepmind",
             "repo": "graph_nets",
-            "stars": 5405,
+            "stars": 5404,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -99,7 +99,7 @@
             "open_issues": 327,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3067,
+            "stars": 3066,
             "topics": [
               "data-science",
               "deep-learning",
@@ -140,7 +140,7 @@
             "open_issues": 222,
             "owner": "alibaba",
             "repo": "euler",
-            "stars": 2903,
+            "stars": 2902,
             "topics": [
               "deep-learning",
               "gcn",
@@ -174,7 +174,7 @@
             "open_issues": 74,
             "owner": "danielegrattarola",
             "repo": "spektral",
-            "stars": 2403,
+            "stars": 2402,
             "topics": [
               "deep-learning",
               "graph-deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 43,
             "owner": "divelab",
             "repo": "DIG",
-            "stars": 2009,
+            "stars": 2008,
             "topics": [
               "3d-graph",
               "deep-learning",
@@ -231,7 +231,7 @@
             "open_issues": 45,
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "gnn-model",
               "graph-classification",
@@ -288,7 +288,7 @@
             "open_issues": 19,
             "owner": "google-deepmind",
             "repo": "jraph",
-            "stars": 1476,
+            "stars": 1475,
             "topics": [
               "deep-learning",
               "graph-neural-networks",
@@ -314,7 +314,7 @@
             "open_issues": 17,
             "owner": "alibaba",
             "repo": "graph-learn",
-            "stars": 1343,
+            "stars": 1342,
             "topics": [
               "aligraph",
               "dynamic-graph",
@@ -377,7 +377,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2009,
+                "stars": 2008,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -405,7 +405,7 @@
                 "open_issues": 45,
                 "owner": "THUDM",
                 "repo": "CogDL",
-                "stars": 1819,
+                "stars": 1818,
                 "topics": [
                   "gnn-model",
                   "graph-classification",
@@ -435,7 +435,7 @@
                 "open_issues": 74,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
-                "stars": 2403,
+                "stars": 2402,
                 "topics": [
                   "deep-learning",
                   "graph-deep-learning",
@@ -464,7 +464,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14298,
+                "stars": 14297,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -488,7 +488,7 @@
                 "open_issues": 17,
                 "owner": "alibaba",
                 "repo": "graph-learn",
-                "stars": 1343,
+                "stars": 1342,
                 "topics": [
                   "aligraph",
                   "dynamic-graph",
@@ -522,7 +522,7 @@
                 "open_issues": 1407,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24149,
+                "stars": 24148,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -549,7 +549,7 @@
                 "open_issues": 10,
                 "owner": "google-deepmind",
                 "repo": "graph_nets",
-                "stars": 5405,
+                "stars": 5404,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -927,7 +927,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14298,
+                "stars": 14297,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1050,7 +1050,7 @@
                 "open_issues": 611,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14298,
+                "stars": 14297,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -1186,7 +1186,7 @@
                 "open_issues": 43,
                 "owner": "divelab",
                 "repo": "DIG",
-                "stars": 2009,
+                "stars": 2008,
                 "topics": [
                   "3d-graph",
                   "deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:42:44.709Z",
+    "last_updated": "2026-11-20T14:23:27.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1683,7 +1683,7 @@
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
-      "stars": 355,
+      "stars": 354,
       "topics": [
         "awesome-list",
         "awesome-papers",
