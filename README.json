@@ -19,7 +19,7 @@
             "open_issues": 1413,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
-            "stars": 24155,
+            "stars": 24157,
             "topics": [
               "deep-learning",
               "geometric-deep-learning",
@@ -171,7 +171,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-01-21T16:47:04Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "danielegrattarola",
             "repo": "spektral",
             "stars": 2403,
@@ -432,7 +432,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-01-21T16:47:04Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
                 "stars": 2403,
@@ -522,7 +522,7 @@
                 "open_issues": 1413,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24155,
+                "stars": 24157,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T16:08:33.886Z",
+    "last_updated": "2026-11-26T15:49:18.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
