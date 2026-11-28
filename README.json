@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T06:58:35Z",
-            "open_issues": 1414,
+            "open_issues": 1416,
             "owner": "pyg-team",
             "repo": "pytorch_geometric",
             "stars": 24158,
@@ -170,8 +170,8 @@
             "id": 166213444,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T19:22:02Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-28T08:25:20Z",
+            "open_issues": 75,
             "owner": "danielegrattarola",
             "repo": "spektral",
             "stars": 2403,
@@ -231,7 +231,7 @@
             "open_issues": 45,
             "owner": "THUDM",
             "repo": "CogDL",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "gnn-model",
               "graph-classification",
@@ -405,7 +405,7 @@
                 "open_issues": 45,
                 "owner": "THUDM",
                 "repo": "CogDL",
-                "stars": 1818,
+                "stars": 1819,
                 "topics": [
                   "gnn-model",
                   "graph-classification",
@@ -431,8 +431,8 @@
                 "id": 166213444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-26T19:22:02Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-28T08:25:20Z",
+                "open_issues": 75,
                 "owner": "danielegrattarola",
                 "repo": "spektral",
                 "stars": 2403,
@@ -519,7 +519,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T06:58:35Z",
-                "open_issues": 1414,
+                "open_issues": 1416,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
                 "stars": 24158,
@@ -1671,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:37:50.237Z",
+    "last_updated": "2026-11-28T14:33:41.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome GNN systems.",
@@ -1679,7 +1679,7 @@
       "id": 504471454,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-27T06:03:26Z",
+      "last_commit": "2026-11-28T05:50:11Z",
       "open_issues": 1,
       "owner": "ch-wan",
       "repo": "awesome-gnn-systems",
@@ -1691,7 +1691,7 @@
         "graph-systems"
       ]
     },
-    "original_repository_sha": "1b92538d615c5f447bfd3340bf6dde968bce7174",
+    "original_repository_sha": "da5183e4a548bc70e6bd0a1d8eee1a14428a3259",
     "enhanced_repository": "enhansome/enhansome-gnn-systems",
     "enhanced_repository_description": null,
     "title": "Awesome Graph Neural Network Systems with stars"
